@@ -2,7 +2,7 @@
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'https://user-images.githubusercontent.com/87246107/135742770-022b6a04-394d-4a66-94d7-830122e98229.gif'title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/mzBsIoV.gif
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part I
 
